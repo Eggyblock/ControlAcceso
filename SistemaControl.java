@@ -1,3 +1,5 @@
+import java.util.*;
+import java.util.Scanner;
 public class SistemaControl
 {
 	public static void main(String[] args) {
